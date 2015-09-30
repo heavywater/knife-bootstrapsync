@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.summary = 'Bootstrap directory sync'
   s.author = 'Chris Roberts'
   s.email = 'chrisroberts.code@gmail.com'
-  s.homepage = 'http://github.com/chrisroberts/knife-bootstrapsync'
+  s.homepage = 'https://github.com/heavywater/knife-bootstrapsync'
   s.description = 'Bootstrap directory sync'
   s.require_path = 'lib'
   s.add_dependency 'chef'
